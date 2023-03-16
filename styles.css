@@ -24,7 +24,7 @@
 }
 
 .superior h2 {
-    color: #fff;
+    color: #fcfc;
 }
 
 .superior h2:hover{
@@ -32,11 +32,6 @@
     transition: .4s;
 }
 
-h3 { 
-    color: #fcfc;
-    font-size: 20px;
-    letter-spacing: 1px;
-}
 
 .superior img {
     width: 310px;
